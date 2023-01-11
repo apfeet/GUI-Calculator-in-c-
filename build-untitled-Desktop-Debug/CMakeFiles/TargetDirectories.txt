@@ -1,0 +1,9 @@
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/untitled.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/install.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/install/local.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/8gen/Desktop/Qt/build-untitled-Desktop-Debug/CMakeFiles/untitled_autogen.dir
