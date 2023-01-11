@@ -1,5 +1,5 @@
 
-# GUI-Calculator-in-c-
+# GUI-Calculator-in-c++
 Made with the Qt Creator and the Qt Designer Frameworks for c++
 <img align="left" alt="Coding" width="200" src='https://user-images.githubusercontent.com/28571149/37297960-4a2b55c6-25dc-11e8-990f-d6330f1e252d.jpg'>
 ## Qt Framework INFO
