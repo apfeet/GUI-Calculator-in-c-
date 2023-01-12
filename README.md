@@ -18,12 +18,6 @@ Made with the Qt Creator and the Qt Designer Frameworks for c++
 ## License d'uso
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-
-## !! Errors
-
-I'm sorry for the GUI looking very minimal and also is not really good, i can improve it in the next Updates
-
-
 ## Deployment
 
 To deploy this project run
