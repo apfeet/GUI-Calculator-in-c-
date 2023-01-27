@@ -18,9 +18,9 @@ Made with the Qt Creator and the Qt Designer Frameworks for c++
 ## License d'uso
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-## Deployment
+## Build
 
-To deploy this project run
+To Build this project run
 
 ```bash
   NO DEPLOYMENT AT THE MOMENT
